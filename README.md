@@ -24,7 +24,7 @@
 
 | Tool | Description |
 |------|-------------|
-| **hanifx** | Secure Python module with custom hashing, UID dumpers, script filters |
+| **hanifx** | Secure Python module hanifx, UID dumpers, script filters |
 | **Telegram Bots** | Script generators, UID analyzers, auto tools |
 | **Security Tools** | Educational tools for Facebook/Gmail recovery, Termux CLI automation |
 
